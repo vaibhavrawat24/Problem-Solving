@@ -1,8 +1,12 @@
 //200. Number of Islands
 //Problem Link: https://leetcode.com/problems/number-of-islands/
 
-//Time Complexity:
+//Time Complexity: O(m*n)
 //Space Complexity: 
+
+/*Approach: The basic approach is to traverse through the whole graph using bfs or dfs and add the visited islands 
+            to a new vector of the same size as original vector
+*/
 
 class Solution {
 public:
