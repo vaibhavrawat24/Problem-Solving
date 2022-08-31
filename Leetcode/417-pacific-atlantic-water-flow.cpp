@@ -1,8 +1,8 @@
 //417. Pacific Atlantic Water Flow
 //Problem Link: https://leetcode.com/problems/pacific-atlantic-water-flow/
 
-//Time Complexity:
-//Space Complexity:
+//Time Complexity: O(mn)
+//Space Complexity: O(mn)
 
 class Solution {
 public:
