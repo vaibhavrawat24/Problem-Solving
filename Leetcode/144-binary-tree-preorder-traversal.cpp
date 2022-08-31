@@ -1,8 +1,8 @@
 //144. Binary Tree Preorder Traversal
 //Problem Link: https://leetcode.com/problems/binary-tree-preorder-traversal/
 
-//Time Complexity: 
-//Space Complexity: 
+//Time Complexity: O(n)
+//Space Complexity: O(n)
 
 class Solution {
 public:
