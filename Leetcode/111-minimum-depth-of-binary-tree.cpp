@@ -1,8 +1,8 @@
 //111. Minimum Depth of Binary Tree
 //Problem Link: https://leetcode.com/problems/minimum-depth-of-binary-tree/
 
-//Time Complexity:
-//Space Complexity:
+//Time Complexity: O(n)
+//Space Complexity: O(n)
 
 class Solution {
 public:
