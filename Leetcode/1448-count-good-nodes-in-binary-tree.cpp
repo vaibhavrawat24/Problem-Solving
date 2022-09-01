@@ -1,8 +1,8 @@
 //1448. Count Good Nodes in Binary Tree
 //Problem Link: https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 
-//Time Complexity:
-//Space Complexity:
+//Time Complexity: O(n)
+//Space Complexity: O(n)
 
 class Solution {
 public:
