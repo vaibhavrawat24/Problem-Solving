@@ -1,8 +1,8 @@
 //226. Invert Binary Tree
-//Problem Link:
+//Problem Link: https://leetcode.com/problems/invert-binary-tree/
 
-//Time Complexity:
-//Space Complexity:
+//Time Complexity: O(n)
+//Space Complexity: O(n)
 
 class Solution {
 public:
