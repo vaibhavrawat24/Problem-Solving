@@ -2,7 +2,7 @@
 //Problem Link: https://leetcode.com/contest/biweekly-contest-86/problems/find-subarrays-with-equal-sum/
 
 //Time Complexity:
-//Space Complexity:
+//Space Complexity: O(n)
 
 class Solution {
 public:
