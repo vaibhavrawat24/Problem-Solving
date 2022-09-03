@@ -1,8 +1,8 @@
 //2395. Find Subarrays With Equal Sum
 //Problem Link: https://leetcode.com/contest/biweekly-contest-86/problems/find-subarrays-with-equal-sum/
 
-//Time Complexity:
-//Space Complexity: O(n)
+//Time Complexity: 
+//Space Complexity: 
 
 class Solution {
 public:
