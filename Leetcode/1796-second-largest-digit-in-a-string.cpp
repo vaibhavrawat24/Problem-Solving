@@ -2,7 +2,7 @@
 //Problem Link: https://leetcode.com/problems/second-largest-digit-in-a-string/
 
 //Time Complexity:
-//Space Complexity:
+//Space Complexity: O(n)
 
 class Solution {
 public:
