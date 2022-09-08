@@ -1,8 +1,8 @@
 //1678. Goal Parser Interpretation
 //Problem Link: https://leetcode.com/problems/goal-parser-interpretation/
 
-//Time Complexity:
-//Space Complexity:
+//Time Complexity: O(n)
+//Space Complexity: O(n)
 
 class Solution {
 public:
