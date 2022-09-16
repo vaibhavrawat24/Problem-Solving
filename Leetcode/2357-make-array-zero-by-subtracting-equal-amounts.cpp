@@ -1,8 +1,8 @@
 //2357. Make Array Zero by Subtracting Equal Amounts
 //Problem Link: https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
 
-//Time Complexity:
-//Space Complexity:
+//Time Complexity: O(n)
+//Space Complexity: O(n)
 
 class Solution {
 public:
