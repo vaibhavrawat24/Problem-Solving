@@ -36,20 +36,11 @@ int main(){
 
     for(int i=0;i<n;i++) cin>>a[i];
 
-    int i=0;
-    while(c!=t && i<n)
-    {
-        if(c>t)
-        {
-            cout<<"NO"<<endl;
-            return 0;
-        }
+    int p=0;
+    while(p<t-1) p+=a[p];
 
-        c+=a[i];
-        i+=1;
-    }
-
-    cout<<"YES"<<endl;
+    if(p==t-1) cout<<"YES"<<endl;
+    else cout<<"NO"<<endl;
  
     return 0;
 }
