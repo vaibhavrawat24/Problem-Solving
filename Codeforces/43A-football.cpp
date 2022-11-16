@@ -1,8 +1,8 @@
 //43A. Football
 //Problem Link: https://codeforces.com/problemset/problem/43/A
 
-//Time Complexity:
-//Space Complexity:
+//Time Complexity: O(n)
+//Space Complexity: O(n)
 
 // KEEP MOVING FORWARD !
 
