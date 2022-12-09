@@ -1,8 +1,8 @@
 //872. Leaf-Similar Trees
 //Problem Link: https://leetcode.com/problems/leaf-similar-trees/description/
 
-//Time Complexity: O(t1+t2)
-//Space complexity: O(t1+t2)
+//Time Complexity: O(n)
+//Space complexity: O(n)
 
 class Solution {
 public:
