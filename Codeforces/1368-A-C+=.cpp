@@ -1,7 +1,7 @@
 //1368A. C+=
 //Problem Link: https://codeforces.com/problemset/problem/1368/A
 
-//Time Complexity:
+//Time Complexity: O(n)
 //Space Complexity: 
 
 // KEEP MOVING FORWARD !
