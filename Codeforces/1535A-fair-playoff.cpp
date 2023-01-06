@@ -1,8 +1,8 @@
 //1535A. Fair Playoff
 //Problem Link: https://codeforces.com/problemset/problem/1535/A
 
-//Time Complexity:
-//Space Complexity:
+//Time Complexity: O(n log n)
+//Space Complexity: O(1)
 
 // KEEP MOVING FORWARD !
 
