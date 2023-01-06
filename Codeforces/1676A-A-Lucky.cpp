@@ -2,7 +2,7 @@
 //Problem Link: https://codeforces.com/problemset/problem/1676/A
 
 //Time Complexity: O(n)
-//Space Complexity:
+//Space Complexity: O(n)
 
 // KEEP MOVING FORWARD !
 
