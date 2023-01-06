@@ -1,8 +1,8 @@
 //1742A. Sum
 //Problem Link: https://codeforces.com/problemset/problem/1742/A
 
-//time Complexity:
-//Space Complexity:
+//time Complexity: O(1)
+//Space Complexity: O(1)
 
 // KEEP MOVING FORWARD !
 
