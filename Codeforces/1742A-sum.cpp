@@ -1,3 +1,9 @@
+//1742A. Sum
+//Problem Link: https://codeforces.com/problemset/problem/1742/A
+
+//time Complexity:
+//Space Complexity:
+
 // KEEP MOVING FORWARD !
 
 #include<bits/stdc++.h>
