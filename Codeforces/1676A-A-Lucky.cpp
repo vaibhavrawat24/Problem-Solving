@@ -1,7 +1,7 @@
 //A. Lucky?
 //Problem Link: https://codeforces.com/problemset/problem/1676/A
 
-//Time Complexity:
+//Time Complexity: O(n)
 //Space Complexity:
 
 // KEEP MOVING FORWARD !
@@ -43,7 +43,7 @@ int main(){
             p1+=n[i]-'0';
             p2+=n[5-i]-'0';
         }
-        
+
         if(p1==p2) cout<<"YES"<<endl;
         else cout<<"NO"<<endl;
     }
