@@ -1,8 +1,8 @@
 //1619A. Square String?
 //Problem Link:https://codeforces.com/problemset/problem/1619/A
 
-//Time Complexity:
-//Space Complexity:
+//Time Complexity: O(n)
+//Space Complexity: O(1)
 
 // KEEP MOVING FORWARD !
 
