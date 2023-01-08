@@ -1,8 +1,8 @@
 //160A. Twins
 //Problem Link: https://codeforces.com/problemset/problem/160/A
 
-//Time complexity:
-//Space Complexity:
+//Time complexity: O(n)
+//Space Complexity: O(n)
 
 // KEEP MOVING FORWARD !
 
