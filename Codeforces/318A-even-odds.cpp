@@ -1,8 +1,8 @@
 //318A. Even Odds
-//Problem Link:
+//Problem Link: https://codeforces.com/contest/318/problem/A
 
-//Time Complexity:
-//Space Complexity:
+//Time Complexity:O(1)
+//Space Complexity:O(1)
 
 // KEEP MOVING FORWARD !
 
@@ -34,6 +34,6 @@ int main(){
     
     if(k<=(n+1)/2) cout<<k*2-1<<endl;
     else cout<<(k-(n+1)/2)*2<<endl;
-    
+
     return 0;
 }
