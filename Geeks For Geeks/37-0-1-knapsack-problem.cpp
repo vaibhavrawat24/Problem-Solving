@@ -1,8 +1,10 @@
 //37 0 - 1 Knapsack Problem
-//Problem Link:
+//Problem Link: https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
 
-//Time Complexity:
-//Space Complexity:
+//Memoization
+
+//Time Complexity: O(n*w)
+//Space Complexity: O(n*w)
 
 class Solution
 {
