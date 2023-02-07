@@ -1,8 +1,8 @@
 //46. Remove loop in Linked List
 //Problem Link: https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1
 
-//Time Complexity:
-//Space Complexity:
+//Time Complexity: O(n)
+//Space Complexity: O(1)
 
 class Solution
 {
