@@ -12,6 +12,4 @@ public:
         long long int n=L/k*B/k;
         return {n,k};
     }
-
-    
 };
