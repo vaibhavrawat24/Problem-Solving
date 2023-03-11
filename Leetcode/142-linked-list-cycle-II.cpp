@@ -24,7 +24,5 @@ public:
             }
         }
         return nullptr; 
-    }
-
-    
+    } 
 };
