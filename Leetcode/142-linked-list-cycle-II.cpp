@@ -23,7 +23,6 @@ public:
                 return hare; 
             }
         }
-        return nullptr;
-         
+        return nullptr; 
     }     
 };
