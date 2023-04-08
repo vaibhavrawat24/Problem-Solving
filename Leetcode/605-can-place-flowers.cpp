@@ -25,7 +25,4 @@ public:
 
         return plant>=n;             
     }
-
-
-    
 };
