@@ -24,7 +24,5 @@ public:
         if(count!=0) plant+=count/2;
 
         return plant>=n;             
-    }
-
-    
+    }    
 };
