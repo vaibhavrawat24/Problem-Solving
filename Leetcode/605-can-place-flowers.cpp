@@ -15,7 +15,7 @@ public:
         {
             if(flowerbed[i]==0) count+=1;
             else
-            {
+                                    {
                 plant+=(count-1)/2;
                 count=0;
             }
@@ -24,7 +24,5 @@ public:
         if(count!=0) plant+=count/2;
 
         return plant>=n;     
-
-        
     }    
 };
