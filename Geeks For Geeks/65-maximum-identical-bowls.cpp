@@ -15,7 +15,5 @@ public:
             else temp--;
         }
         
-        return -1;
-
-        
+        return -1;       
     }
