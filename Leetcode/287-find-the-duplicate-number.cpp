@@ -1,8 +1,8 @@
 // 287. Find the Duplicate Number
 // Problem Link: https://leetcode.com/problems/find-the-duplicate-number/description/
 
-// Time Complexity:
-// Space Complexity:
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 
 class Solution
 {
