@@ -1,8 +1,8 @@
 // 2869. Minimum operations to collect elements
 // Problem Link: https://leetcode.com/contest/biweekly-contest-114/problems/minimum-operations-to-collect-elements/
 
-// Time Complexity:
-// Space Complexity:
+// Time Complexity: O(n)
+// Space Complexity: O(n)
 
 class Solution
 {
